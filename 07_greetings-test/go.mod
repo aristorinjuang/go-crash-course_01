@@ -1,3 +1,3 @@
 module crash-course_01/07_greetings-test
 
-go 1.15
+go 1.16
